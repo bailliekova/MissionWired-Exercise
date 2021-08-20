@@ -14,3 +14,10 @@
 ```cd MissionWired_Exercise
 pipenv install pandas
 ```
+
+## To Run
+Run all scripts by calling 
+`python [path to the script]/[script_name].py`
+
+E.g. if you are in the directory of this repository, call 
+`python ingestion.py` to run the ingestion script. 
